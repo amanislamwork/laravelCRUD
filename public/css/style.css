@@ -1,0 +1,14 @@
+
+
+
+*{
+    font-family: "Instrument Sans", sans-serif !important;
+}
+.container {
+    max-width: 1300px;
+    width: 100%;
+    margin: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+
+}
